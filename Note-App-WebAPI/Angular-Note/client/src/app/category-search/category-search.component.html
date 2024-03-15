@@ -1,0 +1,62 @@
+<div class="category-search-container">
+  <select #categorySelect (change)="filterNotesByCategory(categorySelect.value)">
+    <option value="">Select a Category</option>
+    <option value="Work">Work</option>
+    <option value="Personal">Personal</option>
+    <option value="Urgent">Urgent</option>
+  </select>
+
+  <div *ngIf="filteredNotes.length > 0" class="filtered-notes">
+    <h2 class="centered-title">Filtered Notes</h2>
+
+    <div class="notes-grid">
+
+      <div class="note-card" *ngFor="let note of filteredNotes">
+        <table class="note-table">
+          <tr>
+            <th>Name:</th>
+            <td>{{ note.name }}</td>
+          </tr>
+          <tr>
+            <th>Description:</th>
+            <td>{{ note.description }}</td>
+          </tr>
+          <tr>
+            <th>Status:</th>
+            <td>
+              <span [ngClass]="{
+                'completed': note.status === 'Completed', 
+                'incompleted': note.status === 'Incompleted'
+              }">{{ note.status }}</span>
+            </td>
+          </tr>
+          <tr>
+            <th>Due Date:</th>
+            <td>{{ note.dueDate | date: 'mediumDate' }}</td>
+          </tr>
+          <tr>
+            <th>Category:</th>
+            <td>
+              <span [ngClass]="{
+                'category-work': note.category === 'Work', 
+                'category-personal': note.category === 'Personal', 
+                'category-urgent': note.category === 'Urgent'
+              }">{{ note.category }}</span>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <button class="cool-button" (click)="goToUpdateNote(note.id)">Update</button>
+              <button class="cool-button delete-button" (click)="deleteNoteById(note.id)">Delete</button>
+              <button class="cool-button view-button" (click)="goToNoteDetails(note.id)">View</button>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+  
+  <div *ngIf="filteredNotes.length === 0 && categorySelect.value !== ''" class="no-results">
+    No notes found for selected category.
+  </div>
+</div>

@@ -1,0 +1,53 @@
+<div class="notes-grid">
+  <div *ngFor="let note of notes" class="note-card">
+    <table class="note-table">
+      <tr>
+        <th>Name:</th>
+        <td>{{ note.name }}</td>
+      </tr>
+      <tr>
+        <th>Description:</th>
+        <td>{{ note.description }}</td>
+      </tr>
+      <tr>
+        <th>Status:</th>
+        <td>
+          <span [ngClass]="{
+              'completed': note.status === 'Completed', 
+              'incompleted': note.status !== 'Completed'
+            }">{{ note.status }}</span>
+        </td>
+      </tr>
+      <tr>
+        <th>Due Date:</th>
+        <td>{{ note.dueDate | date: 'mediumDate' }}</td>
+      </tr>
+      <tr>
+        <th>Category:</th>
+        <td>
+          <span [ngClass]="{
+              'category-work': note.category === 'Work', 
+              'category-personal': note.category === 'Personal', 
+              'category-urgent': note.category === 'Urgent'
+            }">{{ note.category }}</span>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <button class="cool-button" (click)="goToUpdateNote(note.id)">Update</button>
+          <button class="cool-button delete-button" (click)="deleteNote(note.id)">Delete</button>
+          <button class="cool-button view-button" (click)="goToNoteDetails(note.id)">View</button>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<div *ngIf="notes.length > 0" class="pagination-controls">
+  <button class="cool-button" (click)="goToPage(currentPage - 1)" [disabled]="currentPage === 1">Previous</button>
+  <button class="cool-button" (click)="goToPage(currentPage + 1)" [disabled]="!canNavigateNext">Next</button>
+</div>
+
+<div *ngIf="showNoNotesToast" class="simple-toast">
+  No notes found matching your search.
+</div>

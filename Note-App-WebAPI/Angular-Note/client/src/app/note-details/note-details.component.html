@@ -1,0 +1,36 @@
+<div *ngIf="note" class="note-card mt-3">
+  <table class="note-table">
+    <tr>
+      <th>ID:</th>
+      <td>{{ note.id }}</td>
+    </tr>
+    <tr>
+      <th>Name:</th>
+      <td>{{ note.name }}</td>
+    </tr>
+    <tr>
+      <th>Description:</th>
+      <td>{{ note.description }}</td>
+    </tr>
+    <tr>
+      <th>Status:</th>
+      <td><span [ngClass]="{'completed': note.status === 'Completed', 'incompleted': note.status === 'Incompleted'}">{{ note.status }}</span></td>
+    </tr>
+    <tr>
+      <th>Due Date:</th>
+      <td>{{ note.dueDate | date: 'mediumDate' }}</td>
+    </tr>
+    <tr>
+      <th>Category:</th>
+      <td><span [ngClass]="{
+          'category-work': note.category === 'Work', 
+          'category-personal': note.category === 'Personal', 
+          'category-urgent': note.category === 'Urgent'
+        }">{{ note.category }}</span></td>
+    </tr>
+  </table>
+</div>
+
+<div *ngIf="showErrorToast" class="error-toast">
+  Invalid ID provided.
+</div>

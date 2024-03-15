@@ -1,0 +1,168 @@
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.deps.json
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.runtimeconfig.json
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.dll
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.pdb
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Domain.dll
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DTOs.dll
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DTOs.pdb
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Domain.pdb
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.CopyComplete
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.dll
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\obj\Debug\net7.0\refint\Challenge.Services.dll
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.pdb
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.Services\obj\Debug\net7.0\ref\Challenge.Services.dll
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.deps.json
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.runtimeconfig.json
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.dll
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.pdb
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Domain.dll
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DTOs.dll
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DTOs.pdb
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Domain.pdb
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.CopyComplete
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.dll
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\refint\Challenge.Services.dll
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.pdb
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\ref\Challenge.Services.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.deps.json
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.runtimeconfig.json
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.pdb
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Domain.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DTOs.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DTOs.pdb
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Domain.pdb
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.CopyComplete
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\refint\Challenge.Services.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.pdb
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.Services\obj\Debug\net7.0\ref\Challenge.Services.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.deps.json
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.runtimeconfig.json
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.pdb
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Domain.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DTOs.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DTOs.pdb
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Domain.pdb
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.CopyComplete
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\refint\Challenge.Services.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.pdb
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\ref\Challenge.Services.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.deps.json
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.runtimeconfig.json
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.pdb
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Domain.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DTOs.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DTOs.pdb
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Domain.pdb
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.CopyComplete
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\refint\Challenge.Services.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.pdb
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.Services\obj\Debug\net7.0\ref\Challenge.Services.dll
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.deps.json
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.runtimeconfig.json
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.dll
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.pdb
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Domain.dll
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DTOs.dll
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DTOs.pdb
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Domain.pdb
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.CopyComplete
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.dll
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\refint\Challenge.Services.dll
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.pdb
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\ref\Challenge.Services.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.deps.json
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.runtimeconfig.json
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.pdb
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Domain.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DTOs.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DTOs.pdb
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Domain.pdb
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.CopyComplete
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\refint\Challenge.Services.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.pdb
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\ref\Challenge.Services.dll
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.deps.json
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.runtimeconfig.json
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.dll
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Services.pdb
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Domain.dll
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DTOs.dll
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.DTOs.pdb
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\bin\Debug\net7.0\Challenge.Domain.pdb
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.csproj.CopyComplete
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.dll
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\refint\Challenge.Services.dll
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.pdb
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\Challenge.Services.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.Services\obj\Debug\net7.0\ref\Challenge.Services.dll

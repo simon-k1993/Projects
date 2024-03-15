@@ -1,0 +1,8 @@
+<header class="notes-app-navbar">
+  <nav class="nav-content">
+    <a *ngIf="!(authService.currentUser$ | async)" class="nav-link" routerLink="/login">Login</a>
+    <a *ngIf="!(authService.currentUser$ | async)" class="nav-link" routerLink="/register">Register</a>
+    <button *ngIf="(authService.currentUser$ | async)" class="nav-link" (click)="logout()">Log Out</button>
+  </nav>
+</header>
+

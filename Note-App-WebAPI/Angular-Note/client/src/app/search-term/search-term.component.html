@@ -1,0 +1,44 @@
+<div class="search-container">
+  <input type="text" class="cool-search-input" [formControl]="searchTerm"
+         (keyup.enter)="searchNotes()" placeholder="Search notes...">
+  <button class="cool-search-button" (click)="searchNotes()">Search</button>
+</div>
+
+<div *ngIf="searchedNotes.length > 0" class="search-results">
+  <h2 class="centered-title">Search Results</h2>
+  <div *ngFor="let note of searchedNotes" class="note-card">
+    <table class="note-table">
+      <tr>
+        <th>Name:</th>
+        <td>{{ note.name }}</td>
+      </tr>
+      <tr>
+        <th>Description:</th>
+        <td>{{ note.description }}</td>
+      </tr>
+      <tr>
+        <th>Status:</th>
+        <td>{{ note.status }}</td>
+      </tr>
+      <tr>
+        <th>Due Date:</th>
+        <td>{{ note.dueDate | date: 'mediumDate' }}</td>
+      </tr>
+      <tr>
+        <th>Category:</th>
+        <td>{{ note.category }}</td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <button class="cool-button" (click)="goToUpdateNote(note.id)">Update</button>
+          <button class="cool-button delete-button" (click)="deleteNoteById(note.id)">Delete</button>
+          <button class="cool-button view-button" (click)="goToNoteDetails(note.id)">View</button>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<div *ngIf="searchedNotes.length === 0 && searchTerm.value && searchInitiated" class="no-results">
+  No notes found matching "{{ searchTerm.value }}".
+</div>

@@ -1,0 +1,152 @@
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.deps.json
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.runtimeconfig.json
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.Domain.dll
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DTOs.dll
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.Domain.pdb
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DTOs.pdb
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.CopyComplete
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\obj\Debug\net7.0\refint\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Note-complex\Challenge\Challenge.DataAccess\obj\Debug\net7.0\ref\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.deps.json
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.runtimeconfig.json
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.Domain.dll
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DTOs.dll
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.Domain.pdb
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DTOs.pdb
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.CopyComplete
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\refint\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Note-complex - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\ref\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.deps.json
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.runtimeconfig.json
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.Domain.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DTOs.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.Domain.pdb
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DTOs.pdb
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.CopyComplete
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\refint\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Copy - Copy\Challenge\Challenge.DataAccess\obj\Debug\net7.0\ref\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.deps.json
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.runtimeconfig.json
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.Domain.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DTOs.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.Domain.pdb
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DTOs.pdb
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.CopyComplete
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\refint\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Challenge-Folder\Note-complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\ref\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.deps.json
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.runtimeconfig.json
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.Domain.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DTOs.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.Domain.pdb
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DTOs.pdb
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.CopyComplete
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\refint\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complex - Authorization\Challenge\Challenge.DataAccess\obj\Debug\net7.0\ref\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.deps.json
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.runtimeconfig.json
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.Domain.dll
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DTOs.dll
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.Domain.pdb
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DTOs.pdb
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.CopyComplete
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\refint\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Task-Complex-Completed\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\ref\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.deps.json
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.runtimeconfig.json
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.Domain.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DTOs.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.Domain.pdb
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DTOs.pdb
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.CopyComplete
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\refint\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Git-Challenge\Challenge\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\ref\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.deps.json
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.runtimeconfig.json
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.Domain.dll
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DTOs.dll
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.Domain.pdb
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\bin\Debug\net7.0\Challenge.DTOs.pdb
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.csproj.CopyComplete
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\refint\Challenge.DataAccess.dll
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.pdb
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\Challenge.DataAccess.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Task-Complete-complex\Task-Complex - AuthorizationVersion\Challenge\Challenge.DataAccess\obj\Debug\net7.0\ref\Challenge.DataAccess.dll

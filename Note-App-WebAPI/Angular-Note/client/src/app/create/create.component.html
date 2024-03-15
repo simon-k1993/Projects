@@ -1,0 +1,40 @@
+<div class="note-form container">
+  <h2 class="form-title">Create New Note</h2>
+  <form [formGroup]="noteForm" (ngSubmit)="addNote()" class="form-bg p-4 rounded">
+
+    <div class="mb-3">
+      <label for="name" class="form-label">Name:</label>
+      <input type="text" class="form-control" formControlName="name" required>
+    </div>
+    <div class="mb-3">
+      <label for="dueDate" class="form-label">Due Date:</label>
+      <input type="date" class="form-control" formControlName="dueDate" required>
+    </div>
+    <div class="mb-3">
+      <label for="description" class="form-label">Description:</label>
+      <textarea class="form-control" formControlName="description" rows="3" required></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="status" class="form-label">Status:</label>
+      <select class="form-select" formControlName="status" required>
+        <option [value]="statusEnum.Complete">Complete</option>
+        <option [value]="statusEnum.Incomplete">Incomplete</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="category" class="form-label">Category:</label>
+      <select class="form-select" formControlName="category" required>
+        <option [value]="categoryEnum.Work">Work</option>
+        <option [value]="categoryEnum.Personal">Personal</option>
+        <option [value]="categoryEnum.Urgent">Urgent</option>
+      </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Add Note</button>
+  </form>
+</div>
+
+<div *ngIf="showToast" 
+     [ngClass]="{'success-toast': toastType === 'success', 'error-toast': toastType === 'error'}" 
+     style="position: fixed; bottom: 20px; left: 20px; padding: 20px; border-radius: 10px; z-index: 1000; min-width: 300px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); font-size: 16px; color: white;">
+  {{ errorMessage }}
+</div>

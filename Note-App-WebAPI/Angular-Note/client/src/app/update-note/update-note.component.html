@@ -1,0 +1,39 @@
+<div class="note-form container">
+  <h2 class="form-title">Update Note</h2>
+  <div class="mb-3">
+    <label for="id" class="form-label">ID:</label>
+    <input type="number" class="form-control" id="id" [value]="noteId" readonly>
+    <button class="btn btn-info mt-2" (click)="fetchNote()">Fetch Note</button>
+  </div>
+
+  <form [formGroup]="updateNoteForm" (ngSubmit)="updateNote()" class="form-bg p-4 rounded">
+    <div class="mb-3">
+      <label for="name" class="form-label">Name:</label>
+      <input type="text" class="form-control" id="name" formControlName="name" required placeholder="Enter Note Name">
+    </div>
+    <div class="mb-3">
+      <label for="description" class="form-label">Description:</label>
+      <textarea class="form-control" id="description" rows="3" formControlName="description" required placeholder="Enter Note Description"></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="status" class="form-label">Status:</label>
+      <select class="form-select" id="status" formControlName="status">
+        <option [value]="statusEnum.Complete">Complete</option>
+        <option [value]="statusEnum.Incomplete">Incomplete</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="category" class="form-label">Category:</label>
+      <select class="form-select" id="category" formControlName="category" required>
+        <option [value]="categoryEnum.Work">Work</option>
+        <option [value]="categoryEnum.Personal">Personal</option>
+        <option [value]="categoryEnum.Urgent">Urgent</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label for="dueDate" class="form-label">Due Date:</label>
+      <input type="date" class="form-control" id="dueDate" formControlName="dueDate">
+    </div>
+    <button type="submit" class="btn btn-primary">Update Note</button>
+  </form>
+</div>
