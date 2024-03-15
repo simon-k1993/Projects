@@ -1,0 +1,34 @@
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Mappers.deps.json
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Mappers.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Mappers.pdb
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Domain.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.ViewModels.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Domain.pdb
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.csproj.CopyComplete
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\refint\BurgerApp.Mappers.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.pdb
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\ref\BurgerApp.Mappers.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Mappers.deps.json
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Mappers.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Mappers.pdb
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Domain.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.ViewModels.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Domain.pdb
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.AssemblyInfo.cs
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.csproj.CopyComplete
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\refint\BurgerApp.Mappers.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.pdb
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\ref\BurgerApp.Mappers.dll

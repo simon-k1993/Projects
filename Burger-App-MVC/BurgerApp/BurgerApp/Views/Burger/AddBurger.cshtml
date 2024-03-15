@@ -1,0 +1,50 @@
+﻿@using BurgerApp.ViewModels.BurgerViewModels;
+@model BurgerFormViewModel
+
+<h2 class="text-center my-4">Add Burger</h2>
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow">
+            <div class="card-body">
+                <form asp-action="AddBurger" method="post">
+                    <div class="form-group mb-3">
+                        <label asp-for="BurgerName" class="control-label">Burger Name</label>
+                        <input asp-for="BurgerName" class="form-control" placeholder="Enter burger name" />
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Price" class="control-label">Price</label>
+                        <input asp-for="Price" class="form-control" type="number" placeholder="Enter price" />
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <div class="form-check">
+                            <input asp-for="IsVegetarian" type="checkbox" class="form-check-input" id="isVegetarianCheck">
+                            <label asp-for="IsVegetarian" class="form-check-label" for="isVegetarianCheck">Vegetarian</label>
+                        </div>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <div class="form-check">
+                            <input asp-for="IsVegan" type="checkbox" class="form-check-input" id="isVeganCheck">
+                            <label asp-for="IsVegan" class="form-check-label" for="isVeganCheck">Vegan</label>
+                        </div>
+                    </div>
+
+                    <div class="form-group mb-4">
+                        <div class="form-check">
+                            <input asp-for="HasFries" type="checkbox" class="form-check-input" id="hasFriesCheck">
+                            <label asp-for="HasFries" class="form-check-label" for="hasFriesCheck">Includes Fries</label>
+                        </div>
+                    </div>
+
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-primary">Save Burger</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,41 @@
+﻿@using BurgerApp.ViewModels.OrderViewModels;
+@model OrderFormViewModel
+
+
+
+<div class="row justify-content-center mt-5">
+    <div class="col-md-6">
+        <div class="card shadow">
+            <div class="card-body">
+                <h4 class="card-title text-center mb-4">Edit Order</h4>
+                <form asp-action="EditOrder" method="post">
+                    <div class="form-group mb-3">
+                        <label asp-for="FullName" class="control-label">Full Name</label>
+                        <input asp-for="FullName" class="form-control" placeholder="Enter full name">
+                    </div>
+                    <div class="form-group mb-3">
+                        <label asp-for="Address" class="control-label">Address</label>
+                        <input asp-for="Address" class="form-control" placeholder="Enter address">
+                    </div>
+                    <div class="form-group mb-3">
+                        <div class="form-check">
+                            <input asp-for="IsDelivered" type="checkbox" class="form-check-input" id="isDeliveredCheck">
+                            <label asp-for="IsDelivered" class="form-check-label" for="isDeliveredCheck">Delivered</label>
+                        </div>
+                    </div>
+                    <div class="form-group mb-3">
+                        <label asp-for="BurgerName" class="control-label">Burger Name</label>
+                        <input asp-for="BurgerName" class="form-control" placeholder="Enter burger name">
+                    </div>
+                    <div class="form-group mb-4">
+                        <label asp-for="Location" class="control-label">Location</label>
+                        <input asp-for="Location" class="form-control" placeholder="Enter location">
+                    </div>
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-primary">Save Changes</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

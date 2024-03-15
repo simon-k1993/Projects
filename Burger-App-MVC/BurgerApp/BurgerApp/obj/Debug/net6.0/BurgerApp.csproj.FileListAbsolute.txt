@@ -1,0 +1,92 @@
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.staticwebassets.runtime.json
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.exe
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.deps.json
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.runtimeconfig.json
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.pdb
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.DataAccess.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.Domain.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.Helpers.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.Mappers.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.Services.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.ViewModels.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.Helpers.pdb
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.Services.pdb
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.DataAccess.pdb
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.Domain.pdb
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.Mappers.pdb
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.RazorAssemblyInfo.cache
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.RazorAssemblyInfo.cs
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\staticwebassets\msbuild.BurgerApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\staticwebassets\msbuild.build.BurgerApp.props
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BurgerApp.props
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BurgerApp.props
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\scopedcss\bundle\BurgerApp.styles.css
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\scopedcss\projectbundle\BurgerApp.bundle.scp.css
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.csproj.CopyComplete
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\refint\BurgerApp.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.pdb
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.genruntimeconfig.cache
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\ref\BurgerApp.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.staticwebassets.runtime.json
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.exe
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.deps.json
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.runtimeconfig.json
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.pdb
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.DataAccess.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.Domain.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.Helpers.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.Mappers.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.Services.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.ViewModels.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.Helpers.pdb
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.Services.pdb
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.DataAccess.pdb
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.Domain.pdb
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.Mappers.pdb
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.AssemblyInfo.cs
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.RazorAssemblyInfo.cache
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.RazorAssemblyInfo.cs
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\staticwebassets\msbuild.BurgerApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\staticwebassets\msbuild.build.BurgerApp.props
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BurgerApp.props
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BurgerApp.props
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\scopedcss\bundle\BurgerApp.styles.css
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\scopedcss\projectbundle\BurgerApp.bundle.scp.css
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.csproj.CopyComplete
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\refint\BurgerApp.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.pdb
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\BurgerApp.genruntimeconfig.cache
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp\obj\Debug\net6.0\ref\BurgerApp.dll

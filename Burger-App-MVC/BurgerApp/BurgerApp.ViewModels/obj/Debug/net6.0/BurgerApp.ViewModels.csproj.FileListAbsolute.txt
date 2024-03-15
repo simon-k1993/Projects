@@ -1,0 +1,30 @@
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\bin\Debug\net6.0\BurgerApp.ViewModels.deps.json
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\bin\Debug\net6.0\BurgerApp.ViewModels.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\bin\Debug\net6.0\BurgerApp.Domain.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\bin\Debug\net6.0\BurgerApp.Domain.pdb
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.AssemblyInfo.cs
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.csproj.CopyComplete
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\refint\BurgerApp.ViewModels.dll
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.pdb
+C:\Users\Simon\Desktop\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\ref\BurgerApp.ViewModels.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\bin\Debug\net6.0\BurgerApp.ViewModels.deps.json
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\bin\Debug\net6.0\BurgerApp.ViewModels.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\bin\Debug\net6.0\BurgerApp.Domain.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\bin\Debug\net6.0\BurgerApp.Domain.pdb
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.AssemblyInfo.cs
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.csproj.CopyComplete
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\refint\BurgerApp.ViewModels.dll
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.pdb
+C:\Users\Simon\Desktop\mvc homework\ASP.NET-MVC-homework\Homework 5 MVC\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\ref\BurgerApp.ViewModels.dll
